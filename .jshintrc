@@ -1,0 +1,19 @@
+{
+    "node": true,
+    "browser": true,
+    "curly": true,
+    "eqeqeq": true,
+    "eqnull": true,
+    "immed": true,
+    "latedef": true,
+    "newcap": true,
+    "noarg": true,
+    "undef": true,
+    "strict": false,
+    "sub": true,
+    "boss": true,
+    "jquery": true,
+    "globals": {
+        "google": true
+    }
+}

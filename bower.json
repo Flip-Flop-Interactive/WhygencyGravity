@@ -1,0 +1,22 @@
+{
+  "name": "Whygency.com",
+  "version": "1.0.0",
+  "authors": [
+    "Koen Dirk van Esterik <koen@flipflopinteractive.com>"
+  ],
+  "description": "Company website",
+  "license": "GNU",
+  "homepage": "http://www.flipflopinteractive.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.1",
+    "imagesloaded": "~3.1.8",
+    "skrollr": "~0.6.27"
+  }
+}
