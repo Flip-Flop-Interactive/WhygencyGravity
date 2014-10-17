@@ -1,10 +1,34 @@
 {{>header}}
 
-{{!-- 	<nav id="navigation">
-		<ul>
-			<li><a href="" title=""></a></li>
-		</ul>
-	</nav> --}}
+	<nav id="navigation" class="navbar navbar-default navbar-fixed-top" role="navigation" data-200-top="top: -60px;" data-top="top: 0;" data-anchor-target="#manifesto">
+		{{!-- <div class="container"> --}}
+			{{!-- <div class="col-md-6 col-md-offset-3"> --}}
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-mechanism">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="#">
+						{{>trademark}}
+					</a>
+				</div>
+				<div class="navbar-collapse collapse" id="navbar-mechanism">
+					<ul class="nav navbar-nav navbar-right">
+						{{#compose src="paragraphs/*.md"}}
+						<li>
+							<a href="#{{ @id }}">{{ @title }}</a>
+						</li>
+						{{/compose}}
+						<li>
+							<a href="#contact">Kontakt</a>
+						</li>
+					</ul>
+				</div>
+			{{!-- </div> --}}
+		{{!-- </div> --}}
+	</nav>
 
 	<section id="splash" class="slide">
 		<div class="background" data-center="background-position: 50% 0px;" data-top-bottom="background-position: 50% -200px;" data-anchor-target="#splash"></div>
@@ -17,73 +41,28 @@
 	</section>
 
 	<section id="intro" class="slide">
-		<div class="content" data--200-top="opacity: 1; margin-top: -87px;" data--400-top="opacity: 0; margin-top: -107px;" data-anchor-target="#intro">
-			<div class="header">
-				<p data-150-bottom="padding-top: 67px;" data-100-bottom="padding-top: 0;" data-anchor-target="#intro">Vi har byggt oss för att på kortast möjliga tid<br/>kunna ge våra kunder en orättvis fördel.</p>
-				<hr data-250-bottom="width: 0px;" data-200-bottom="width: 400px;" data-anchor-target="#intro" />
-			</div>
-			<div class="console">
-				<div class="left">
-					<div class="caption" data-50-bottom="left: -20px; opacity: 0;" data-bottom="left: 0; opacity: 1;" data-anchor-target="#intro"><p>Thomas Brenemark</p></div>
-					<div class="avatar" data-75-bottom="left: 90px; opacity: 0;" data-25-bottom="left: 110px; opacity: 1;" data-anchor-target="#intro"><img class="img-circle" src="./images/thomas-brenemark.jpg"/></div>
-				</div>
-				<div class="right">
-					<div class="avatar" data-75-bottom="right: 90px; opacity: 0;" data-25-bottom="right: 110px; opacity: 1;" data-anchor-target="#intro"><img class="img-circle" src="./images/pelle-ohrgren.jpg"/></div>
-					<div class="caption" data-50-bottom="right: -20px; opacity: 0;" data-bottom="right: 0; opacity: 1;" data-anchor-target="#intro"><p>Pelle Ohrgren</p></div>
-				</div>
-			</div>
+		<div class="content" data-top="opacity: 1; margin-top: -15px;" data--200-top="opacity: 0; margin-top: -35px;" data-anchor-target="#intro">
+			<p data-150-bottom="padding-top: 28px;" data-100-bottom="padding-top: 0;" data-anchor-target="#intro">'Att ge en orättvis fördel utan omvägar'</p>
+			<hr data-250-bottom="width: 0px;" data-200-bottom="width: 340px;" data-anchor-target="#intro" />
 		</div>
-	</section>
-
-	<section id="about" class="slide">
-		<div class="content" data--50-top="opacity: 1; margin-top: -198px;" data--150-top="opacity: 0; margin-top: -218px;" data-anchor-target="#about">
-			<div class="header">
-				<p data-150-bottom="padding-top: 89px;" data-100-bottom="padding-top: 0;" data-anchor-target="#about">Fokusera på det som gör riktig skillnad och skära bort resten.<br/>Speed trumps perfection handlar inte om att göra saker slarvigt,<br/>det handlar om att nå resultat snabbare.</p>
-				<hr data-250-bottom="width: 0px;" data-200-bottom="width: 600px; margin-top: 118px;" data-150-bottom="margin-top: 0;" data-anchor-target="#about" />
-			</div>
-			<div class="console" data-200-bottom="height: 0px;" data-150-bottom="height: 235px;" data-anchor-target="#about">
-				<div class="left">
-					<p data-50-bottom="opacity: 0; padding-right: 20px;" data-bottom="opacity: 1; padding-right: 0;" data-anchor-target="#about"><strong>DECIDE</strong></p>
-				</div>
-				<div class="triangle" data-200-bottom="margin-top: -118px;" data-150-bottom="margin-top: 30px;" data-anchor-target="#about">
-					{{>triangle}}	
-				</div>
-				<div class="right">
-					<p data-50-bottom="opacity: 0; padding-left: 20px;" data-bottom="opacity: 1; padding-left: 0;" data-anchor-target="#about"><strong>DO</strong></p>
-				</div>
-			</div>
-			<div class="footer">
-				<hr data-250-bottom="width: 0px;" data-200-bottom="width: 600px;" data-anchor-target="#about" />
-				<div class="mask">
-					<p data-150-bottom="margin-top: -44px;" data-100-bottom="margin-top: 23px;" data-anchor-target="#about">Leda med ansvar från ’Decide’ till ’Do’.<br/>Leverera från ax till limpa utan omvägar och stora kostymer.</p>
-				</div>
-			</div>
-		</div>
-	</section>
-
-	<section id="visual">
-		<div class="background" class="background" data-bottom-top="background-position: 50% 100px;" data-top-bottom="background-position: 50% -100px;" data-anchor-target="#visual"></div>
 	</section>
 
 	<section id="manifesto">
-		<div class="container">
-			<div class="row">
+		{{#compose src="paragraphs/*.md" markdown="true"}}
+		<article id="{{ @id }}">
+			<div class="background" style="background-image: url( '{{ @image }}' );" data-bottom-top="background-position: 50% 100px;" data-top-bottom="background-position: 50% -100px;" data-anchor-target="#{{ @id }}"></div>
+			<div class="container">
 				<div class="col-md-6 col-md-offset-3">
-
-					{{#compose src="paragraphs/*.md" markdown="true"}}
-					{{{@content}}}
-					{{/compose}}
-
+					{{{ @content }}}
 				</div>
 			</div>
-		</div>
+		</article>
+		{{/compose}}
 	</section>
 
 	<section id="cases">
 		<ul>
-
 		{{#compose src="cases/*.md"}}
-
 			<li>
 				<a href="{{ @link }}" title="{{ @title }}" target="_blank">
 					<img class="thumbnail" src="{{ @thumbnail }}"/>
@@ -92,9 +71,7 @@
 					</div>
 				</a>
 			</li>
-
 		{{/compose}}
-
 		</ul>
 	</section>
 
@@ -102,8 +79,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 col-md-offset-3">
-					<h1>Komma i kontakt</h1>
-					<p><strong>WhygencyGravity</strong><br/>Birger Jarlsgatan 18<br/>114 34 Stockholm<br/>Sverige</p>
+					<p><span class="logo"><strong>WHYGENCY</strong>GRAVITY</span><br/>Birger Jarlsgatan 18<br/>114 34 Stockholm<br/>Sverige</p>
 					<ul>
 						<li>
 							<a href="http://www.facebook.com" title="Facebook" target="blank">
