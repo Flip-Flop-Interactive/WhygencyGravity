@@ -17,6 +17,10 @@
   "devDependencies": {
     "jquery": "~2.1.1",
     "imagesloaded": "~3.1.8",
-    "skrollr": "~0.6.27"
+    "skrollr": "~0.6.27",
+    "fontawesome": "~4.2.0",
+    "bootstrap": "~3.2.0",
+    "smooth-scroll": "~1.0.1",
+    "isMobile": "~0.3.2"
   }
 }

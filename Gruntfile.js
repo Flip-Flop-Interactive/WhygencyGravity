@@ -12,7 +12,7 @@ module.exports = function( grunt ){
 
 		clean: {
 			all: {
-				src: './deploy'
+				src: './deploy/*'
 			}
 		},
 
@@ -140,8 +140,12 @@ module.exports = function( grunt ){
 				]
 			},
 
-			all: {
+			development: {
 				src: './deploy/css/styles.css'
+			},
+
+			production: {
+				src: './deploy/css/styles.min.css'
 			},
 		},
 
@@ -167,7 +171,7 @@ module.exports = function( grunt ){
 					'./source/styles/*.less',
 		    	],
 		    	tasks: [ 
-		    		// 'prepare:development'
+		    		'prepare:development'
 		    	],
 	            options: {
     	            livereload: true
@@ -220,13 +224,13 @@ module.exports = function( grunt ){
 
 		'default',
 		'less:development',
-		'autoprefixer:all',
+		'autoprefixer:development',
 		'replace:development',
 	]);	
 
 	grunt.registerTask( 'development', [
 
-		// 'prepare:development',
+		'prepare:development',
 		'open:all',
 		'express:all',
 		'watch:all'
@@ -236,7 +240,7 @@ module.exports = function( grunt ){
 
 		'default',
 		'less:production',
-		'autoprefixer:all',
+		'autoprefixer:production',
 		'replace:production',
 		'uglify:all'
 	]);

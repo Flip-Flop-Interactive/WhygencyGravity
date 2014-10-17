@@ -28,6 +28,7 @@
     "grunt-ftp-deploy": "^0.1.8",
     "grunt-open": "^0.2.3",
     "grunt-replace": "^0.8.0",
+    "handlebars-helper-compose": "^0.2.12",
     "jshint-stylish": "^1.0.0",
     "load-grunt-tasks": "^0.6.0"
   }

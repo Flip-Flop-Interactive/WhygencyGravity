@@ -1,0 +1,77 @@
+#cases {
+
+	ul {
+	
+		list-style: none;
+		padding: 1px 0 0 1px;
+
+		li {
+
+			float: left;
+			width: 100%;
+			height: auto;
+			position: relative;
+			padding: 0 1px 1px 0;
+
+			a {
+				.thumbnail {
+
+					width: 100%;
+					height: auto;
+					.opacity( 1 );
+					transition-duration:200ms;
+				}
+
+				.caption {
+
+					position: absolute;
+					bottom: 0;
+					left: 0;
+					padding:30px;
+					color: @white;
+					.opacity( 0 ); 
+					transition-duration: 200ms;
+
+					h1 {
+						margin-bottom: 0;
+					}
+				}
+
+				&:hover, &:focus {
+
+					.thumbnail {
+
+						.opacity( 0 );
+					}
+
+					.caption {
+
+						.opacity( 1 );
+					}
+				}
+			}
+
+			@media screen and ( min-width: 500px ){
+
+				width: 100%;
+			}
+
+			@media screen and ( min-width: 800px ){
+
+				width: 50%;
+			}
+
+			@media screen and ( min-width: 1200px ){
+
+				width: 25%;
+			}
+
+			@media screen and ( min-width: 1800px ){
+
+				width: 12.5%;
+			}
+		}
+	}
+
+	.clearfix();
+}

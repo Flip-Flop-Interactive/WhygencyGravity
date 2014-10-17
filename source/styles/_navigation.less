@@ -1,0 +1,84 @@
+#navigation {
+
+	top: -60px;
+
+	.navbar-header {
+
+		.navbar-brand {
+
+			#trademark {
+
+				path {
+
+					transition-duration: 200ms;
+				}
+			}
+
+			&:hover, &:focus {
+
+				#trademark {
+
+					path {
+
+						fill: @brand-primary;
+					}
+				}
+			}
+		}
+
+		.navbar-toggle {
+
+			margin: 0;
+			padding: 18px 20px;
+			border: none;
+			border-left-width: 1px;
+			border-left-style: solid;
+			border-left-color: @gray-lighter;
+			background-color: @white;
+			transition-duration: 200ms;
+
+			.icon-bar {
+
+				border-radius: 0;
+				transition-duration: 200ms;
+			}
+
+			&:hover {
+
+				.icon-bar {
+
+					background-color: @brand-primary;
+				}
+			}
+		}
+	}
+
+	.navbar-collapse {
+
+		.navbar-nav {
+
+			padding-right: 15px;
+
+			li {
+
+				border-left-width: 1px;
+				border-left-style: solid;
+				border-left-color: @gray-lighter;
+
+
+				a {
+
+					font-family: @font-family-sans-serif;
+					font-size: 14px;
+					letter-spacing: 1px;
+
+					@media( max-width: @grid-float-breakpoint-max ){
+
+						padding-left: 15px;
+						padding-right: 15px;
+					}
+				}
+			}
+		}
+	}
+}

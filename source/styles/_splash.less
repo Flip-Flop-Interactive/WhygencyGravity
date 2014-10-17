@@ -1,0 +1,62 @@
+#splash {
+
+	width: 100%;
+	height: 100%;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: @gray-darker;
+
+	.background {
+
+		width: 100%;
+		height: 100%;
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: cover;
+		background-image: url( '../images/worn-boots.jpg' );
+
+		@media( max-width: @grid-float-breakpoint-max ){
+
+			background-size: auto 100%;
+		}
+	}
+
+	.logo {
+
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		width: 300px;
+		height: 30px;
+		margin-left: -150px;
+		margin-top: -15px;		
+	}
+
+	.indicator {
+
+		position: absolute;
+		left: 50%;
+		bottom: 100px;
+		margin-left: -16px;
+		color: #333;
+		animation-name: indicator-animation;
+		animation-duration: 2500ms;
+		animation-iteration-count: infinite;
+		animation-direction: both;
+		animation-timing-function: ease;
+		animation-delay: 500ms;
+	}
+
+	@keyframes indicator-animation {
+		0%   { transform: translateY( 0 ); }
+		10%  { transform: translateY( 20px ); }
+		20%  { transform: translateY( 0 ); }
+		30%  { transform: translateY( 20px ); }
+		40%  { transform: translateY( 0 ); }
+		100% { transform: translateY( 0 ); }
+	}
+}
+
+
+
