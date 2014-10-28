@@ -1,14 +1,1 @@
----
-title:	'Vär kund'
-image:	'./images/cross-roads.jpg'
----
-
-# Vär kund
-
-** Future revenue - **
-Vi jobbar på avdelningen för framtida intäkter. Den avdelning där marknadens framtida betalningsvilja  skapas och skördas. Vi tycker om termerna magnetism och betalningsvilja. När magnetismen är hög kan man driva taktisk försäljning utan att behöva sänka priset. När man skapat ’fame’ runt varumärket är det även mer skyddat från kriser. Det här är inte plockat ur luften. I världens största databank för effektivitet i marknadsföring med över 1.300 kampanjer analyserade visar sig Brand Fame vara den enskilt mest lönsamhetsdrivande faktorn. Där har man till och med kunnat se vilken nivå mellan ’why’ och ’buy’ som ger mest. 
-
-> ’The best way to predict the future is to create it’  
-<small>Peter Drucker</small>
-
-Hör av dig så berättar vi mer.
+---title:	'Vår kund'image:	'./images/iron-bridge.jpg'---# Vår kund** Future revenue - **Vi jobbar på avdelningen för framtida intäkter. Det är en avdelning där produktutveckling, försäljning och marknadskunskap mixas och där marknadens betalningsvilja  skapas och skördas. När varumärkets magnetism är hög kan man driva försäljning utan att behöva sänka priset. Så kallad ’brand fame’ är det som enskilt korrelerar med hög R.O.I och gör varumärket mer skyddat från kriser. Det här är inget vi hittat på. Det kommer från världens största vetenskapliga auktoritet om effektivitet i marknadsföring. De har till och med kunnat se vilken proportion mellan ’pull’ och ’push’ som ger mest resultat för pengarna. Vi delar gärna med oss av vad vi lärt oss där.> ’The best way to predict the future is to create it’  <small>Peter Drucker</small>Hör av dig så berättar vi mer. [Thomas &amp; Pelle](mailto:whygency@whygency.com)
