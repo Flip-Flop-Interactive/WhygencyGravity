@@ -1,33 +1,29 @@
 {{>header}}
 
 	<nav id="navigation" class="navbar navbar-default navbar-fixed-top" role="navigation" data-200-top="top: -60px;" data-top="top: 0;" data-anchor-target="#manifesto">
-		{{!-- <div class="container"> --}}
-			{{!-- <div class="col-md-6 col-md-offset-3"> --}}
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-mechanism">
-						<span class="sr-only">Toggle navigation</span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</button>
-					<a class="navbar-brand" href="#">
-						{{>trademark}}
-					</a>
-				</div>
-				<div class="navbar-collapse collapse" id="navbar-mechanism">
-					<ul class="nav navbar-nav navbar-right">
-						{{#compose src="paragraphs/*.md"}}
-						<li>
-							<a href="#{{ @id }}">{{ @title }}</a>
-						</li>
-						{{/compose}}
-						<li>
-							<a href="#contact">Kontakt</a>
-						</li>
-					</ul>
-				</div>
-			{{!-- </div> --}}
-		{{!-- </div> --}}
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-mechanism">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="#">
+				<p><span class="logo"><strong>WHYGENCY</strong>GRAVITY</span></p>
+			</a>
+		</div>
+		<div class="navbar-collapse collapse" id="navbar-mechanism">
+			<ul class="nav navbar-nav navbar-right">
+				{{#compose src="paragraphs/*.md"}}
+				<li>
+					<a href="#{{ @id }}">{{ @title }}</a>
+				</li>
+				{{/compose}}
+				<li>
+					<a href="#contact">Kontakt</a>
+				</li>
+			</ul>
+		</div>
 	</nav>
 
 	<section id="splash" class="slide">
@@ -42,8 +38,16 @@
 
 	<section id="intro" class="slide">
 		<div class="content" data-top="opacity: 1; margin-top: -15px;" data--200-top="opacity: 0; margin-top: -35px;" data-anchor-target="#intro">
-			<p data-150-bottom="padding-top: 28px;" data-100-bottom="padding-top: 0;" data-anchor-target="#intro">'Att ge en orättvis fördel utan omvägar'</p>
-			<hr data-250-bottom="width: 0px;" data-200-bottom="width: 340px;" data-anchor-target="#intro" />
+
+			<div class="mask">
+				<p data-150-center="margin-top: 80px;" data-100-center="margin-top: 0px;" data-anchor-target="#intro"><strong>Innovativ strategi   <span class="orange">&gt;</span>  Dectide&Do  <span class="orange">&lt;</span>  Kreativ Produktion</strong><br/>Om någon frågar i hissen så säg bara: ’Erfaren strategi och produktion under samma tak. Med en egen metod och ett flexibelt närverk.</p>	
+			</div>
+			
+			<hr data-200-center="width: 0px;" data-150-center="width: 440px;" data-anchor-target="#intro" />
+			
+			<div class="mask">
+				<p data-150-center="margin-top: -20px;" data-100-center="margin-top: 20px;" data-anchor-target="#intro">Vårt löfte: ’Ge alla på Future Revenue Department en orättvis fördel</p>	
+			</div>
 		</div>
 	</section>
 
@@ -60,7 +64,8 @@
 		{{/compose}}
 	</section>
 
-	<section id="cases">
+ 	<section id="cases">
+ 		{{!--
 		<ul>
 		{{#compose src="cases/*.md"}}
 			<li>
@@ -73,6 +78,7 @@
 			</li>
 		{{/compose}}
 		</ul>
+		--}}
 	</section>
 
 	<section id="contact">
@@ -81,6 +87,7 @@
 				<div class="col-md-6 col-md-offset-3">
 					<p><span class="logo"><strong>WHYGENCY</strong>GRAVITY</span><br/>Birger Jarlsgatan 18<br/>114 34 Stockholm<br/>Sverige</p>
 					<ul>
+						{{!--
 						<li>
 							<a href="http://www.facebook.com" title="Facebook" target="blank">
 								<span class="fa-stack fa-lg">
@@ -97,6 +104,7 @@
 								</span>
 							</a>
 						</li>
+						--}}
 						<li>
 							<a href="mailto:whygency@whygency.com" title="Mail" target="blank">
 								<span class="fa-stack fa-lg">
@@ -105,6 +113,7 @@
 								</span>
 							</a>
 						</li>
+						{{!-- 						
 						<li>
 							<a href="http://www.twitter.com" title="Twitter" target="blank">
 								<span class="fa-stack fa-lg">
@@ -113,6 +122,7 @@
 								</span>
 							</a>
 						</li>
+						--}}
 					</ul>
 				</div>
 			</div>

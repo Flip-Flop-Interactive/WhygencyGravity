@@ -1,13 +1,1 @@
----
-title:	'Vår sanning'
-image:	'./images/cross-roads.jpg'
----
-
-# Vår sanning
-
-**’Man behöver inte vara stor för att vinna stora slag’.  
-Vi startade i den enkla frågan ’Hur ser den minsta byrå ut som kan göra störst affärsnytta till och med för världens största varumärken?’ **
-
-Svaret är ett team som har mer flexibel kreativitet än flaskhals och långbänk. Som kan frodas när allt förändras. Där vägen mellan Decide & Do är både klok och kort. De cide handlar om att skära bort men att aldrig skära bort sitt ’why’. Vi heter Whygency för att det är i ’why’ som magnetism och betalningsvilja byggs. Vi heter Gravity för att det är först när det klokt tänkta träffar marken som det händer något. Vi heter WhygencyGravity för att vi vill kunna fokusera på det som ger mest värde för våra kunder. Alla kan säga det men vi har faktiskt byggt oss för att göra det.
-
-Vi är övertygade om att framtiden tillhör de som snabbast kan förena kreativ strategi, kreativt aktiverande och vara duktiga på rörlig bild. Att vara det i alla de fönster där världen fäster sin uppmärksamhet och delar sina känslor. Speed trumps perfection handlar inte om att göra saker slarvigt utan om att nå resultat snabbare. Leda med ansvar från ’Decide’ till ’Do’. Leverera från ax till limpa. Göra det utan omvägar och stora kostymer.
+---title:	'Vår sanning'image:	'./images/rock-climber.jpg'---# Vår sanning**’Vi startade med den enkla frågan ’Hur ser den minsta byrå ut som kan göra störst affärsnytta till och med för världens största varumärken?’ Svaret är en konstruktion som erbjuder flex istället för flaskhals när allt förändras. Vägen mellan Decide & Do ska kunna vara både klok och kort. Decide kommer ur det latinska ’cid’ ; att skära bort. Att fokusera är att skära bort allt annat men att aldrig frestas att skära i sitt ’why’ i sin jakt på lönsamhet. Vi är en ’gency’ för det finns en hel del man kan skära bort i en ’agency’. Vi heter Whygency för att det är i ’why’ som magnetism och tillväxt finns. Vi heter Gravity för att det är först när det klokt tänkta träffar marken som det händer något. Vi tog fram vårt Decide&Do-sätt att jobba för att vi vill kunna fokusera på det som ger mest värde för våra uppdragsgivare. Vi tror att framtiden tillhör den som snabbast kan förena innovativ affärsstrategi med kreativt aktiverande och att alltid vara duktig på rörlig bild. För allt händer fort nu i alla de fönster där världen fäster sin uppmärksamhet och delar sina känslor. Coke’s Wendy Clarke sa ’Speed trumps perfection’ som handlar om att  göra rätt saker i rätt omgivning. Tänk reaktionssnabb inte maratonsnabb. Det räcker inte att vara snabb en gång, utan vara det gång på gång. Leda med ansvar från ax till limpa utan omvägar och stora kostymer är ett bra sätt att leva i dag. Alla kan säga det, men alla är inte byggda för att göra det. Vi är det.

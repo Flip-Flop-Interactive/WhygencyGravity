@@ -6,22 +6,22 @@
 
 		.navbar-brand {
 
-			#trademark {
+			.logo {
+				font-size: 14px;
+				font-family: @font-family-sans-serif;
+				letter-spacing: 2px;
+				transition-duration: 200ms;
 
-				path {
-
-					transition-duration: 200ms;
+				strong {
+					letter-spacing: 1px;
 				}
 			}
 
 			&:hover, &:focus {
 
-				#trademark {
+				.logo {
 
-					path {
-
-						fill: @brand-primary;
-					}
+					color: @brand-primary;
 				}
 			}
 		}
