@@ -94,7 +94,6 @@
 
 				$( '#navigation' ).css({ 'top': '0' });
 				$( '#splash .indicator' ).remove();
-				$( '#intro' ).remove();
 
 			} else {
 
@@ -116,8 +115,8 @@
 		var height = $( window ).height();
 			height = ( height <= 550 ) ? 550 : height;
 
-		$( '.slide' ).height( height );
-		animation.refresh( $( '.slide' ));
+		$( '#splash' ).height( height );
+		animation.refresh( $( '#splash' ));
 	}
 
 } )( jQuery );
