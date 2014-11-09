@@ -1,10 +1,10 @@
 {
-  "name": "Whygency.com",
+  "name": "WhygencyGravity",
   "version": "1.0.0",
   "description": "Company website",
   "main": "Gruntfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "grunt acceptance"
   },
   "repository": {
     "type": "git",
