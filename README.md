@@ -1,4 +1,4 @@
-WYHGENCY/GRAVITY
+WYHGENCYGRAVITY
 ===========
 
 WhygencyGravity: Company Website
