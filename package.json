@@ -4,7 +4,7 @@
   "description": "Company website",
   "main": "Gruntfile.js",
   "scripts": {
-    "test": "grunt acceptance"
+    "test": "grunt production"
   },
   "repository": {
     "type": "git",
