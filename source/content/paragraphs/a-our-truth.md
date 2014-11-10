@@ -3,7 +3,7 @@ title:	'Vår sanning'
 image:	'./images/rock-climber.jpg'
 ---
 
-# Vår sanning!!!
+# Vår sanning
 
 ** 'Vi startade med den enkla frågan ’Hur ser den minsta byrå ut som kan göra störst affärsnytta till och med för världens största varumärken?' **
 
