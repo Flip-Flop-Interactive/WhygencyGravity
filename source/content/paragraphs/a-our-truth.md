@@ -1,1 +1,12 @@
----title:	'Vår sanning'image:	'./images/rock-climber.jpg'---# Vår sanning** ’Vi startade med den enkla frågan ’Hur ser den minsta byrå ut som kan göra störst affärsnytta till och med för världens största varumärken?’ **Svaret är en konstruktion där vägen mellan Decide & Do kan vara både klok och kort. Decide kommer ur det latinska ’cid’ ; att skära bort. Att skära kräver beslutsamhet men också klokhet för att inte skära i sitt ’why’ i jakten på lönsamhet. Vi är en ’gency’ för det finns en hel del man kan skära bort i en ’agency’. Vi heter Whygency för att det är i ’why’ som tillväxt finns. Vi heter Gravity för att det är först när det tänkta träffar marken som det händer något.Vi tog fram vårt Decide&Do-sätt att jobba för att vi vill kunna fokusera på det som ger mest värde för våra uppdragsgivare. Vi tror att framtiden tillhör den som snabbast kan förena innovativ affärsstrategi med kreativt aktiverande och att alltid vara duktig på rörlig bild. Allt händer i de fönster där världen fäster sin uppmärksamhet och delar sina känslor. Reaktionssnabb, för det räcker inte att vara snabb en gång, utan vara det gång på gång. Därför vill man bort från omvägar och stora kostymer. Alla kan säga det, men alla är inte byggda för att klara det. Vi är det.
+---
+title:	'Vår sanning'
+image:	'./images/rock-climber.jpg'
+---
+
+# Vår sanning!!!
+
+** 'Vi startade med den enkla frågan ’Hur ser den minsta byrå ut som kan göra störst affärsnytta till och med för världens största varumärken?' **
+
+Svaret är en konstruktion där vägen mellan Decide & Do kan vara både klok och kort. Decide kommer ur det latinska 'cid' ; att skära bort. Att skära kräver beslutsamhet men också klokhet för att inte skära i sitt 'why' i jakten på lönsamhet. Vi är en 'gency' för det finns en hel del man kan skära bort i en 'agency'. Vi heter Whygency för att det är i 'why' som tillväxt finns. Vi heter Gravity för att det är först när det tänkta träffar marken som det händer något.
+
+Vi tog fram vårt Decide&Do-sätt att jobba för att vi vill kunna fokusera på det som ger mest värde för våra uppdragsgivare. Vi tror att framtiden tillhör den som snabbast kan förena innovativ affärsstrategi med kreativt aktiverande och att alltid vara duktig på rörlig bild. Allt händer i de fönster där världen fäster sin uppmärksamhet och delar sina känslor. Reaktionssnabb, för det räcker inte att vara snabb en gång, utan vara det gång på gång. Därför vill man bort från omvägar och stora kostymer. Alla kan säga det, men alla är inte byggda för att klara det. Vi är det.
