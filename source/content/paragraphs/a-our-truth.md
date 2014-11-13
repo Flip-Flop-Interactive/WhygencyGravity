@@ -5,7 +5,7 @@ image:	'./images/rock-climber.jpg'
 
 # Vår sanning
 
-** 'Vi startade med den enkla frågan ’Hur ser den minsta byrå ut som kan göra störst affärsnytta till och med för världens största varumärken?' **
+'Vi startade med den enkla frågan ’Hur ser den minsta byrå ut som kan göra störst affärsnytta till och med för världens största varumärken?'
 
 Svaret är en konstruktion där vägen mellan Decide & Do kan vara både klok och kort. Decide kommer ur det latinska 'cid' ; att skära bort. Att skära kräver beslutsamhet men också klokhet för att inte skära i sitt 'why' i jakten på lönsamhet. Vi är en 'gency' för det finns en hel del man kan skära bort i en 'agency'. Vi heter Whygency för att det är i 'why' som tillväxt finns. Vi heter Gravity för att det är först när det tänkta träffar marken som det händer något.
 
