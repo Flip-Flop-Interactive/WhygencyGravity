@@ -27,6 +27,6 @@ Rörlig bild är en naturlig del av allt idag. Vi leder produktion med kvalitet 
 En fristående syn. Vi har sett de flesta leveranser från både insidan och utsidan. Marknadsundersökningar, tracking, konkurrentanalyser, strategiska positioneringar, reklamkampanjer, filmproduktioner, event och virala aktiveringar mm. Vi har sett vad som kostar, var det kostar och vad som ger effekt. Vill du ha en objektiv bedömning så prata med oss om Smartonomics.
 
 ** Partnerskap - Add2Agency &trade; — **
-För små och medelstora byråer som tänker 2014 och inte 1984. När nya möjligheter och uppdrag kräver att ni är större. Vi fungerar som katalysator eller extra muskel, när och där det behövs. Smarta partnerskap är det nya svarta.
+För små och medelstora byråer som tänker 2014 och inte 1984. När nya möjligheter och uppdrag kräver att ni är större. Vi fungerar som katalysator eller extra muskel, när och där det behövs. Smarta partnerskap är det nya svarta...
 
 
