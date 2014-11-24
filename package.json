@@ -1,7 +1,7 @@
 {
   "name": "WhygencyGravity",
   "version": "1.0.0",
-  "description": "Company website",
+  "description": "Company website ",
   "main": "Gruntfile.js",
   "scripts": {
     "test": "grunt production"
