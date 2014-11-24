@@ -8,6 +8,6 @@ title:	'Vår löfte'
 
 <br/>
 
-## Vi är en koncentrerad Decide &amp; Do byrå
+## Vi är en koncentrerad Decide, Engage &amp; Do byrå
 - Innovativ strategi för att skapa nya intäkter
-- Kreativ produktion så strategier snabbt blir verklighet
+- Kreativ produktion för effekt i vardagen
