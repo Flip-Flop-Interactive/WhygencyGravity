@@ -4,7 +4,7 @@ title:	'Vår löfte'
 
 # Vårt löfte
 ---
-## *"En orättvis fördel utan omvägar"*
+## *'En orättvis fördel utan omvägar'*
 
 <br/>
 
