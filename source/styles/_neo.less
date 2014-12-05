@@ -9,3 +9,25 @@
 		border-bottom-color: #eee;
 	}
 }
+
+@media (max-width:800px) {
+	.navbar-default .navbar-nav .open .dropdown-menu>li>a { color: #000; }
+	
+	.navbar-default .navbar-nav .open .dropdown-menu>li>a:hover,.navbar-default .navbar-nav .open .dropdown-menu>li>a:focus
+	{
+		color: #ff8300;
+		background-color: transparent;
+	}
+	
+	.navbar-default .navbar-nav .open .dropdown-menu>.active>a,.navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover,.navbar-default .navbar-nav .open .dropdown-menu>.active>a:focus
+	{
+		color: #555;
+		background-color: #eee;
+	}
+	
+	.navbar-default .navbar-nav .open .dropdown-menu>.disabled>a,.navbar-default .navbar-nav .open .dropdown-menu>.disabled>a:hover,.navbar-default .navbar-nav .open .dropdown-menu>.disabled>a:focus
+	{
+		color: #ccc;
+		background-color: transparent;
+	}
+}
