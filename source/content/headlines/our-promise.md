@@ -2,7 +2,7 @@
 title:	'Vår löfte'
 ---
 
-# Vårt löfte
+# Det vi kan lova
 ---
 ## *'En orättvis fördel utan omvägar'*
 
