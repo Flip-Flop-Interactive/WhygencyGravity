@@ -23,5 +23,5 @@ Roy, Best Film, Gold + Silver. Cannes Lion, Cyber, 3xsilver, Film silver. Golden
 ** Referenser **  
 Vi har en del personer vi jobbat med genom åren som lovat att berätta hur vi är om någon undrar. Hör av dig så förmedlar vi vidare.
 
-** Sounding Board **  
+** Advisory Board **  
 När vi bollar alla stora omställningar som sker nu och vad de kommer att innebära så har vi några kloka personer att göra det med. De kommer synas här strax.
