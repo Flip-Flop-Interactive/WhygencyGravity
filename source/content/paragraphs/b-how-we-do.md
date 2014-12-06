@@ -6,10 +6,10 @@ image:	'./images/wind-power.jpg'
 # Hur vi gör
 
 ** Enkelhet som modell - **
-Vi sorterar för att hitta det enkla. Vi tar kortast väg där det är möjligt, men vi förväxlar aldrig enkel med lätt. Einstein sa : ’Make everything as simple as possible, but not simpler’. Och man ska inte försöka vara smartare än Einstein.
+Sortera. Kortast väg där det är möjligt. Aldrig förväxla enkel med lätt. Einstein sa : ’Make everything as simple as possible, but not simpler’. Och man ska inte försöka vara smartare än Einstein.
 
 ** 70 / 15 / 15 - **
-Vi jobbar inte gratis men vi kan få det att kännas så. Enkel lösning som ställer krav på båda parter.
+Arvoden i gamla eller nya former. Dela risk och utväxling ställer krav på båda parter. Ibland är det gamla bättre än det nya. Och tvärtom. Vi har ingen fast overhead att fylla så vi kan vara helt transparentaOch kravställande. 
 
 ** Vi ger företag och varumärken ett nytt inre sätt att dela ut roller - **
 Genom att dela in sälj, marknad, produkt och ekonomi i presens, futurum och imperfekt får organisationen perspektiv som inspirerar till nya sätt att samarbeta. Du kommer att bli förvånad över vad det kan förlösa.
@@ -26,7 +26,7 @@ Y är inte bara en bokstav. Det är ett arbetsredskap för att nå beslut. Är u
 <small>Pablo Picasso</small>
 
 ** Frågor är mer värda än svar - **
-Picasso hade rätt i att vi formas mer av frågor än svar. De gör att man kan växa när man möter hinder. Kan man hantera osminkad ärlighet, signalvärde in i affärsberäkningar, ’revenue before cost’ och ’better before cheaper’ som strategi, prototyper för att speed dejta sina nya kunder och prata i realtidskommunikation? De är bra frågor att forma sig efter idag.
+Picasso hade rätt i att vi formas mer av frågor än svar. De gör att man kan växa när man möter hinder. Kan man hantera osminkad ärlighet? Signalvärde i affärsberäkningar? ’Revenue before cost’ och ’better before cheaper’ som strategi? Prototypa för att speed dejta sina nya kunder och prova sin marknad? Hantera realtidskommunikation? Flytta budgetar mellan silos?
 
 ** Vi jobbar inte med alla - **
 Vi har byggt oss för de som inte är nöjda med att ha en 30 år gammal arbetsmodell i en ny värld. De som vill mer än att bara göra vad de gjorde igår. Vi jobbar med alla som vågar ställa sig frågor de inte redan tror sig veta svaret på. Alla de som tror på marknadsföring som ett verktyg för hela organisationen. De andra har redan en byrå som hjälper dem.
