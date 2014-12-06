@@ -9,7 +9,7 @@ image:	'./images/wind-power.jpg'
 Sortera. Kortast väg där det är möjligt. Aldrig förväxla enkel med lätt. Einstein sa : ’Make everything as simple as possible, but not simpler’. Och man ska inte försöka vara smartare än Einstein.
 
 ** 70 / 15 / 15 - **
-Arvoden i gamla eller nya former. Dela risk och utväxling ställer krav på båda parter. Ibland är det gamla bättre än det nya. Och tvärtom. Vi har ingen fast overhead att fylla så vi kan vara helt transparentaOch kravställande. 
+Arvoden i gamla eller nya former. Dela risk och utväxling ställer krav på båda parter. Ibland är det gamla bättre än det nya. Och tvärtom. Vi har ingen fast overhead att fylla så vi kan vara helt transparenta. Och kravställande. 
 
 ** Vi ger företag och varumärken ett nytt inre sätt att dela ut roller - **
 Genom att dela in sälj, marknad, produkt och ekonomi i presens, futurum och imperfekt får organisationen perspektiv som inspirerar till nya sätt att samarbeta. Du kommer att bli förvånad över vad det kan förlösa.
