@@ -10,7 +10,9 @@
 	}
 }
 
-@media (max-width:800px) {
+@media (min-width:800px) {
+	.navbar-toggle { display: none; }
+
 	.navbar-collapse
 	{
 		width: auto;
@@ -35,6 +37,8 @@
 		padding-right: 0;
 	}
 
+}
+@media (max-width:800px) {
 
 
 	.navbar-default .navbar-nav .open .dropdown-menu>li>a { color: #000; }
