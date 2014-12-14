@@ -4,11 +4,11 @@ title:	'Vår löfte'
 
 # Det vi kan lova
 ---
-## *'En orättvis fördel utan omvägar'*
+## *'Ge dig en orättvis fördel'*
 
 <br/>
 
-## Vi är en Decide, Engage &amp; Do byrå
-- Innovativ strategi för att skapa nya intäkter
-- Kanaloberoende närverk och öppen process 
-- Kreativ produktion för effekt i vardagen
+## Vi är en Decide &amp; Do byrå
+- Innovativ strategi med fokus på nya intäkter
+- Kanaloberoende närverk i öppen process 
+- Kreativ konkret produktion
