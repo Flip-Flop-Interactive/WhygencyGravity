@@ -5,7 +5,7 @@ image:	'./images/rock-climber.jpg'
 
 # Vår sanning
 
-**'Vi startade med den enkla frågan: Hur ser den minsta byrå ut som kan göra störst affärsnytta till och med för världens största varumärken?'**
+**Vi startade med den enkla frågan: Hur ser den minsta byrå ut som kan göra störst affärsnytta även för världens största varumärken?**
 
 Driva konkret, beslutsdriven marknadsföring. Decide & Do. Tänk, ta beslut och gör ut. Kreativt resultatdrivet. Som bollplank eller samla ett team. Decide är att skära bort. Att skära kräver klokhet för att inte skära bort sitt 'why' i jakten på lönsamhet.Det är i 'why' som all tillväxt bor. Vi är en 'gency' för det finns en hel del man kan skära bort i en 'agency'. Vi adderar gravity för att det är när det tänkta landar som det händer något.
 
