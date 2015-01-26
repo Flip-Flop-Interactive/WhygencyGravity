@@ -24,4 +24,12 @@ Roy, Best Film, Gold + Silver. Cannes Lion, Cyber, 3xsilver, Film silver. Golden
 Vi har en del personer vi jobbat med genom åren som lovat att berätta hur vi är om någon undrar. Hör av dig så förmedlar vi vidare.
 
 ** Advisory Board **  
-När vi bollar alla stora omställningar som sker nu och vad de kommer att innebära så har vi några kloka personer att göra det med. De kommer synas här strax.
+Med tanke på alla stora omställningar som sker nu är det viktigt att ha några kloka personer att prata med. Vi har fått några härliga personer vi tycker är ärliga, kloka och med skarpt eget perspektiv att ingå i WHYGENCY ADVISORY BOARD. 
+- BRITTA LUNDQVIST, fd Reklamchef SEB. Det Britta inte vet om symbiosen mellan en marknadsavdelning, affärsledning och olika byråer ryms på en lillfingernagel. 
+- GREGER HAGELIN, skateboardslyngeln som byggde ett av Sveriges coolaste och globalt framgångsrika varumärken i WESC och fick oss att se hörlurar som mode. Nu gör han om affärsförutsättningarna för varenda nattklubb i världen med Keyflow. Sveriges Richard Branson på flera sätt.
+- MARTIN WATTIN, IT entreprenör och investerare, Pugglepay, Rabble, Contur för att bara nämna några. Gjort mer innan han fyllt 40 än de flesta hinner på en livstid.
+- NICOLE HAMAN, alltid längst fram i tåget på kanalutvecklingen. Mediabyrå-guru som gick till Google och nu United Screens där talesättet att allt som inte rör sig står stilla gäller fullt ut.
+- PER BROMAN, Fotografiska Museet. Att starta ett succémuseum på 2000talet säger en del om vad bild betyder i vår tid och en del om Per. 
+- PETHER ÖHLÉN, Exekutiv Producent för ett stort antal livesuccéer. Att hantera realtidskommunikation blir nästa stora våg och Pether är definitionen av det som krävs. 
+- ÅSA MARKLUND, varumärkeschef Berghs SoC. Primus motor i att lyfta Berghs till världsrenommé. Står med ena foten i nuet och andra i framtiden.
+Det kan till och med dyka upp någon till. Allt för att WHYGENCYgravity inte ska fastna i gamla invanda föreställningar om hur det är eller saker ska göras.
