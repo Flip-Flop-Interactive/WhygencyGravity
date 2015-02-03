@@ -101,7 +101,11 @@
 			}
 
 			$( 'body' ).removeClass( 'loading' ).addClass( 'loaded' );
-			  
+
+			$( '#navbar-mechanism a' ).on('click', function() {
+				$( '#navbar-mechanism' ).removeClass('in');
+			});
+
 		}, 800 );
 	});
 
