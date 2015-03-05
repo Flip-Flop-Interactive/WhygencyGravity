@@ -21,7 +21,7 @@ Framgång kräver att man kan hantera både mål för att öka marknadsandelar o
 <small>Pablo Picasso</small>
 
 ** Frågor är mer värda än svar - **
-Picasso hade rätt i att vi formas mer av frågor än svar. De gör att man kan växa när man möter hinder. Våga fråga.
+Picasso hade rätt i att vi formas mer av frågor än svar. Det är frågorna som gör att vi skapar lönsamhet ur den data vi har tillgång till.
 
 ** Vi jobbar inte med alla - **
 Vi har byggt oss för de som inte är nöjda med att ha en 30 år gammal arbetsmodell i en ny värld. Vi jobbar med alla som vågar ställa sig frågor de inte redan tror sig veta svaret på. Alla som ser marknadsföring som ett ansvar för hela organisationen. De andra har redan en byrå som hjälper dem.
