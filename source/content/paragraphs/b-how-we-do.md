@@ -9,7 +9,7 @@ image:	'./images/wind-power.jpg'
 Sortera. Kortast väg där det är möjligt. Aldrig förväxla enkel med lätt. Einstein sa : ’Make everything as simple as possible, but not simpler’. Och man ska inte försöka vara smartare än Einstein.
 
 ** Darwinistisk matematik - **
-Vi brukar ställa tre enkla frågor som har med siffror att göra. Finns det en proaktiv budget för det oväntade? (Många har en sudd för reaktiva åtgärder, men för få har en prokativ). Mäter du Brand Fame? Mäter du ESOV? Vår erfarenhet är att de som har det vi kallar Darwinistisk matematik som grund för sina ekonomiska beslut har störst långsiktig lönsamhet.  
+Vi brukar ställa tre enkla frågor som har med siffror att göra. Finns det en proaktiv budget för det oväntade? (Många har en sudd för reaktiva åtgärder, men för få har en prokativ). Mäter du Brand Fame? Den tredje kan vi berätta när vi ses. Vår erfarenhet är att de som tänker Darwinistisk matematik har störst långsiktig lönsamhet.  
 
 ** Sherlock och all data - **
 All information är i stort sett tillgänglig för alla. Alla ser allt men allt för få observerar och drar slutsatser. Vi tar allt fram till en Y-vägskorsning. Där drar vi slutsatser tillsammans med våra uppdragsgivare. Om det som hänt, händer och det vi vill ska hända. Få det att hända.
