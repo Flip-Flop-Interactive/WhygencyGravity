@@ -4,7 +4,7 @@ title:	'Vår löfte'
 
 # WHY - WOW - FAME
 ---
-## *'Tio bokstäver som ger långsiktig lönsamhet'*
+## *'Tio bokstäver för långsiktig lönsamhet'*
 
 <br/>
 
