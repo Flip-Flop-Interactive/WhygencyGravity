@@ -12,7 +12,7 @@ Sortera. Kortast väg där det är möjligt. Aldrig förväxla enkel med lätt. 
 Vi brukar ställa tre enkla frågor som har med siffror att göra. Finns det en proaktiv budget för det oväntade? (Många har en sudd för reaktiva åtgärder, men för få har en prokativ). Mäter du Brand Fame? Mäter du ESOV? Vår erfarenhet är att de som har det vi kallar Darwinistisk matematik som grund för sina ekonomiska beslut har störst långsiktig lönsamhet.  
 
 ** Sherlock och all data - **
-All information är i stort sett tillgänglig för alla. Alla ser allt men allt för få observerar och drar slutsatser. Vi tar allt fram till en Y-vägskorsning. Där drar vi slutsatser tillsammans med våra uppdragsgivare. Om det som hänt, händer och det vi vill ska hända.
+All information är i stort sett tillgänglig för alla. Alla ser allt men allt för få observerar och drar slutsatser. Vi tar allt fram till en Y-vägskorsning. Där drar vi slutsatser tillsammans med våra uppdragsgivare. Om det som hänt, händer och det vi vill ska hända. Få det att hända.
 
 ** Enkla mål involverar fler i effekten - **
 Framgång kräver att man kan hantera både mål för att öka marknadsandelar och mål för att öka sin marknads betalningsvilja. Marknadsandelar kan man köpa med rabatter. Men då minskar man betalningsviljan. Det gäller att lösa båda.
