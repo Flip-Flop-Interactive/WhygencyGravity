@@ -2,10 +2,10 @@
 title:	'Vår löfte'
 ---
 
-# WHY - WOW - FAME
+# Become the benchmark
 ---
 ## *#emotification @ why2wow.se*
 
 <br/>
 
-## Streetwise creative strategies for better results
+## Take your time to do whats right and make it count
