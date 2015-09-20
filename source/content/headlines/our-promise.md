@@ -6,4 +6,4 @@ title:	'Vår löfte'
 
 <br/>
 
-## Take your time to do whats right and make it count
+## Take your time to do whats right       and make it count
