@@ -3,8 +3,6 @@ title:	'Vår löfte'
 ---
 
 # Become the benchmark
----
-## *#emotification @ why2wow.se*
 
 <br/>
 
